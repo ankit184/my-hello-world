@@ -1,1 +1,1 @@
-print('🎃 Hello World - 2018 Hacktoberfest! 🎃')
+print('Ankit mishra')
